@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap');
+.card-deck{
+    display:inline-flex;
+    padding-left: 15px;
+    padding-bottom: 40px;
+    border-radius: 50px;
+
+}
+.icon{
+    padding-right: 5px;
+}
+.card-shadow{
+    border-radius: 15px;
+    box-shadow: 10px 10px 12px -1px rgba(179,165,179,1);
+}
+button{
+   
+    background: linear-gradient(90deg, rgba(131,125,255,1) 0%, rgba(63,120,203,1) 0%, rgba(89,180,221,1) 74%, rgba(73,215,244,1) 96%, rgba(73,215,244,1) 96%);
+       border: none; 
+       
+}
+
+
+.btn{
+    border: none;
+    border-radius: 15px;
+}
+.title{
+   font-family:  'Lobster Two', cursive;
+   font-size: 30px;
+}
+
+
+.instructor{
+    color: black;
+    font-size: 18px;
+    font-weight: lighter;
+}
+

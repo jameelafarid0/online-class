@@ -1,0 +1,29 @@
+.icon{
+    padding-right: 5px;
+    color:white;
+}
+div.style-cart {
+    padding: 30px;
+    margin: 10px 370px;
+    text-align: center;
+    background-image: linear-gradient(270deg, rgb(85, 85, 85),rgb(44, 36, 163));
+    border-radius: 20px;
+}
+
+h2{
+    color: white;
+    font-family: monospace;
+    text-align: left;
+    padding-left: 100px;
+}
+h3{
+    color:white;
+}
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+.flex{
+    display: flex;
+}
